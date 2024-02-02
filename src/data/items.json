@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Rose Bear",
+        "description": "app1 description",
+        "price": 19.99,
+        "imgUrl": "/imgs/RoseBear.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lego Heart",
+        "description": "app2 description",
+        "price": 2.99,
+        "imgUrl": "/imgs/Lego_Heart_Necklace.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Couples Mugs",
+        "description": "app3 description",
+        "price": 14.99,
+        "imgUrl": "Mug.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Glassed Rose",
+        "description": "app4 description",
+        "price": 17.99,
+        "imgUrl": "Rose_in_glass.jpg"
+    }
+]
